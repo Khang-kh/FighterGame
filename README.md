@@ -32,6 +32,7 @@ Hãy tải Fighter Game ngay hôm nay và chứng minh bạn là một phi công
 
 Link ảnh: https://drive.google.com/drive/folders/19hXxh_JjhfQXc1WYMkBQhKD0REXrpKJk?usp=drive_link
 
-Assets game được lấy từ Unity Assets có tên Planes LowPoly
+Assets game được lấy từ Unity Assets có tên Planes LowPoly.
+
 Link Assets: https://assetstore.unity.com/packages/3d/vehicles/air/planes-choppers-polypack-194946
 
