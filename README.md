@@ -29,3 +29,5 @@ Chiến Thắng (Victory): Nếu bạn vượt qua được đợt Boss cuối c
 Thất Bại (Game Over): Nếu bạn mất hết 3 mạng trước khi tiêu diệt được Boss, Game Over!
 
 Hãy tải Fighter Game ngay hôm nay và chứng minh bạn là một phi công vĩ đại!
+
+Link ảnh: https://drive.google.com/drive/folders/19hXxh_JjhfQXc1WYMkBQhKD0REXrpKJk?usp=drive_link
