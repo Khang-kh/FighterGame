@@ -3,7 +3,7 @@ Hãy sẵn sàng bước vào buồng lái của máy bay chiến đấu tối t
 
 Trong vai phi công đơn độc, nhiệm vụ của bạn là tiêu diệt các đợt tấn công không ngừng của hạm đội máy bay không người lái do một thế lực bí ẩn đứng đằng sau. Hãy bắn hạ mọi thứ di chuyển, thu thập tài nguyên và sống sót qua bốn màn đấu căng thẳng để giành lấy vinh quang!
 
-Gameplay Cốt Lõi: Tiêu Diệt, Thu Thập và Sinh Tồn
+Gameplay Cốt Lõi: Tiêu Diệt, Thu Thập và Sinh Tồn.
 Fighter Game mang đến trải nghiệm hành động thuần túy với luật chơi rõ ràng nhưng đầy thử thách:
 
 🚀 Cơ chế Chiến đấu & Điểm số
